@@ -1,0 +1,19 @@
+.home-page{
+    width: 90%;
+    height: 500px;
+    background-color: white;
+    margin: 15px auto;
+    /* margin-top: 10px; */
+}
+.logo{
+    margin: auto;
+    width: 90px;
+}
+.logo img{
+    width: 100%;
+}
+.welcome{
+    width: fit-content;
+    font-size: 30px;
+    margin: 20px auto;
+}

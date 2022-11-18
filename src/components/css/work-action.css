@@ -1,0 +1,20 @@
+.work-action{
+    color: #fed136;
+    padding-bottom: 50px;
+    /* background-color: antiquewhite; */
+}
+
+.work-action-cards{
+    color: black;
+    width: 150px;
+    height: 35px;
+    /* outline: auto; */
+    text-align: center;
+    box-shadow: 0px 2px 10px #fed136 ;
+    border-radius: 5px;
+}
+.work-action-cards p{
+    padding-top: 7px;
+    font-size: 17px;
+    font-weight: 600;
+}
