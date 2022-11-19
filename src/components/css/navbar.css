@@ -30,7 +30,7 @@ nav{
     margin-left: 10%;
     align-self: center;
     width: 300px;
-    outline: auto;    
+    /* outline: auto;     */
     color: #696969;
     list-style: none;
     display: flex;
