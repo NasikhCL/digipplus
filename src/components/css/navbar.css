@@ -45,9 +45,11 @@ nav{
     transition: all .2s ease-in-out;    
 }
 
-/* .select{
+.select{
     color:#fed136;
-} */
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
 
 .user-profile{
     width: 45px;
