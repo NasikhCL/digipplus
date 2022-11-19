@@ -39,6 +39,7 @@ nav{
     font-weight: 600;
 } 
 .navbar ul li:hover{
+    cursor: pointer;
     color: #fed136;
     transition: all .2s ease-in-out;    
 }
