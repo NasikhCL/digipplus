@@ -38,11 +38,16 @@ nav{
     font-size: 18px;
     font-weight: 600;
 } 
+
 .navbar ul li:hover{
     cursor: pointer;
     color: #fed136;
     transition: all .2s ease-in-out;    
 }
+
+/* .select{
+    color:#fed136;
+} */
 
 .user-profile{
     width: 45px;
